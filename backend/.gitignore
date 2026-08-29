@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+*.env
+.env.example
+/media/
+staticfiles/
+db.sqlite3
+.vscode/
+.idea/
+.cache/
+pip-wheel-metadata/
+site-packages/
+Thumbs.db
+Desktop.ini
