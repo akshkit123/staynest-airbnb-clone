@@ -1,0 +1,11 @@
+node_modules/
+/dist/
+/.vite/
+.env*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+*.js.map
+*.css.map
+*.log
